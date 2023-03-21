@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DLL_App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DLL_App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
